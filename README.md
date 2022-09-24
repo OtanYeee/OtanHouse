@@ -1,6 +1,6 @@
-<img src="https://telegra.ph/file/198ae8fd6048244f918ab.jpg" align="right" width="200" height="200"/>
+<img src="[https://telegra.ph/Otan-09-24).jpg" align="right" width="200" height="200"/>
 
-# Otan Music Bot <img src="https://telegra.ph/Otan-09-24?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# Otan Music Bot 
 
 [Otan Music Bot](https://github.com/OtanYeee/OtanHouse) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
