@@ -1,4 +1,4 @@
-# <img src="https://github.com/OtanYeee/OtanMusic/blob/master/Utils/otan.jpg=black&style=socialoid-xiaomi-rvo2&sourceid=chrome-mobile&ie=UTF-8#imgrc=e6c9MJBqHDjLxM" align="right" width="200" height="200"/>
+#
 
 # Otan Music Bot <img src="https://github.com/OtanYeee/OtanMusic/blob/master/Utils/otan.jpg=black&style=social" alt="RELEASE">
 
