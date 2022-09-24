@@ -1,4 +1,4 @@
-# <img src="https://telegra.ph/file/198ae8fd6048244f918ab.jpg" align="right" width="200" height="200"/>
+# <img src="https://www.google.com/search?q=foto+monyet+lucu+bikin+ngakak&oq=foto+monyetlucu&aqs=chrome.2.69i57j0i13l7j0i13i30.4939j0j9&client=ms-android-xiaomi-rvo2&sourceid=chrome-mobile&ie=UTF-8#imgrc=e6c9MJBqHDjLxM" align="right" width="200" height="200"/>
 
 # Otan Music Bot <img src="https://github.com/OtanYeee/OtanMusic/blob/master/Utils/otan.jpg=black&style=social" alt="RELEASE">
 
